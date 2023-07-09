@@ -1,0 +1,15 @@
+body{
+height: 100vh;
+}
+.parent
+{
+    width: 500px;
+}
+
+.child
+{
+    width: 50%;
+    height: 300px;
+    color:green;
+    background-color: rgb(220, 217, 217);
+}
